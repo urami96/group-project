@@ -1,1 +1,4 @@
 This is master
+
+feature B
+function : Add
