@@ -1,3 +1,6 @@
 This is master
 
+feature A 
+feature B
+function : Add
 Get started
